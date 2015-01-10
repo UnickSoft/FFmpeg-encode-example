@@ -1,6 +1,6 @@
 # FFMpeg-encode-example
 
-Example how to use ffmpeg to decode video file. Link to article about [encode with FFMpeg](http://unick-soft.ru/article.php?id=57)
+Example how to use ffmpeg to decode video file. Link to article about [encode with FFMpeg](http://unick-soft.ru/article.php?id=57). [Russian Article](http://unick-soft.ru/article.php?id=20)
 
 Program creates video with sound. Here is example settings:
 
